@@ -1,18 +1,1 @@
-# This .gitignore is appropriate for repositories deployed to GitHub Pages and using
-# a Gemfile as specified at https://github.com/github/pages-gem#conventional
-
-# Basic Jekyll gitignores (synchronize to Jekyll.gitignore)
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-
-# Additional Ruby/bundler ignore for when you run: bundle install
-/vendor
-
-# Specific ignore for GitHub Pages
-# GitHub Pages will always use its own deployed version of pages-gem 
-# This means GitHub Pages will NOT use your Gemfile.lock and therefore it is
-# counterproductive to check this file into the repository.
-# Details at https://github.com/github/pages-gem/issues/768
-Gemfile.lock
+data:text/html,<!doctype html><html lang="es"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Mi vida Nancy 🌻</title><style>body{margin:0;font-family:'Dancing Script',cursive;background:linear-gradient(180deg,#fffbe9,#ffe08a);color:#3b2b1a;text-align:center;overflow-x:hidden}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}.card{padding:24px;margin:30px auto;max-width:600px;background:rgba(255,255,255,0.8);border-radius:20px;box-shadow:0 8px 20px rgba(0,0,0,0.1)}h1{font-family:'Dancing Script',cursive;font-size:2.5em;color:#d59c25;margin-bottom:10px}p{font-family:sans-serif;line-height:1.6;font-size:1.1em;margin:12px 0}.heart{color:#e63946;animation:pulse 1.8s infinite}@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.2)}}.sun{font-size:48px;animation:float 4s ease-in-out infinite}</style><body><div class="card"><div class="sun">🌻</div><h1>Mi vida Nancy</h1><p>Mi vida Nancy, si los girasoles pudieran hablar, dirían tu nombre cada amanecer. 🌞</p><p>Eres la luz que guía mis días, la calma que apaga mis miedos y el abrazo donde el mundo tiene sentido.</p><p>Cuando sonríes, florece mi alma. Cuando me miras, se detiene el tiempo. Cuando te tengo cerca, no necesito más que tu amor.</p><p><strong>Mi vida Nancy</strong>, eres mi girasol eterno — siempre buscando la luz, siempre llenándome de vida.</p><p>Gracias por existir, por amarme con ternura y por ser mi sol de cada día. <span class="heart">❤️</span></p><div class="sun">🌻</div><p style="font-size:0.8em;color:#555;">Hecho con amor, por quien más te ama 💛</p></div><iframe width="0" height="0" src="https://www.youtube.com/embed/2OEL4P1Rz04?autoplay=1&loop=1" frameborder="0" allow="autoplay"></iframe></body></html>
